@@ -8,10 +8,10 @@ A collaborative space for security researchers and engineers focused on **Offens
 
 New here? Start exploring our projects based on your interest:
 
-- **Red Team / Offensive Security** → Attack simulation, payload crafting, C2 tooling  
-- **Cloud Security** → Misconfiguration detection, IAM exploitation, K8s testing  
-- **Web Security** → API hacking, vulnerability scanners, OWASP Top 10 tooling  
-- **Active Directory Security** → Enumeration, Kerberos attacks, BloodHound automation  
+- **Red Team / Offensive Security** 
+- **Cloud Security** 
+- **Web Security** 
+- **Active Directory Security** 
 
 Browse our repositories and read the `README.md` of each tool to get started.
 
