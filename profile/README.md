@@ -1,5 +1,7 @@
 # 🛡️ Welcome to ThreatRoot
 
+![Banner](https://raw.githubusercontent.com/ThreatRoot/.github/refs/heads/main/profile/banner.png "Banner")
+
 A collaborative space for security researchers and engineers focused on **Offensive Security**, **Cloud Security**, **Web Security**, and **Active Directory Security**.
 
 ---
