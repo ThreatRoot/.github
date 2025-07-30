@@ -41,7 +41,7 @@ Looking to:
 - Hire for pentesting, cloud audits, or red team operations?  
 - Partner on security R&D?
 
-**📬 Contact us at:** touch@sadikulislam.com
+**📬 Contact us at:** echo@threatroot.xyz
 
 ---
 
